@@ -6,3 +6,5 @@ P.S.: This is before I started working on the project itself, I'll add in some s
 
 Edit: Finally completed the project! It was pretty simple yet fun. I think I have now got a hang of HTML and should be able to
 continue on without any hassle. Throughout the project, the only part I messed up at was not adding `rel="noopener noreferrer"` which I did add eventually. Other than that, the project went well and I can't wait to complete this [course](https://www.theodinproject.com/paths/foundations/courses/foundations)!
+
+[Live Demo Link](https://novussocius.github.io/The-Odin-Project-Recipes/)
